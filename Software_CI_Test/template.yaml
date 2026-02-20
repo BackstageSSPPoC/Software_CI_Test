@@ -2,7 +2,7 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: CI-Test-template
-  title: Github-Jenkins
+  title: Github-Jenkins Template
   description: Github to Jenkins Integration for CI Build
 spec:
   owner: development
